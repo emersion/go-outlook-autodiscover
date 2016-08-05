@@ -1,5 +1,7 @@
 # go-outlook-autodiscover
 
+[![GoDoc](https://godoc.org/github.com/ProtonMail/go-outlook-autodiscover?status.svg)](https://godoc.org/github.com/ProtonMail/go-outlook-autodiscover)
+
 Generate [Microsoft Outlook autodiscover files](https://technet.microsoft.com/en-us/library/cc511507(v=office.14).aspx).
 
 ## Usage
